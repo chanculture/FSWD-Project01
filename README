@@ -1,0 +1,15 @@
+Christopher Chan
+Full Stack Web Developer Nanodegree
+
+Project 1: Movie Trailer Website
+==========
+This project dynamically creates an html file that displays a few of my favorite movies.
+You can click on any of the movie poster images to view its trailer.
+
+Documentation
+==========
+To start this project, run entertainment_center.py
+
+License
+==========
+Copyright Christopher Chan
